@@ -10,6 +10,8 @@
 <img width="861" height="569" alt="Sort Colors(2)" src="https://github.com/user-attachments/assets/5bf4027f-ae89-43ee-b754-df538b6220f0" />
 
 ## Steps to Run
+Enter numbers, with each number seperated by a comma, then hit the button labeled "Run Bubble Sort".
+A log should then appear, with each step the sorting algorithm takes to sort everything.
 ## Hugging Face Link
 https://huggingface.co/spaces/dooperboop/Bubble-Sort-Simulation/tree/main
 ## Author & Acknowledgment
