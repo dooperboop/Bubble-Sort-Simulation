@@ -1,5 +1,5 @@
 # Bubble-Sort-Simulation
-##why I Chose bubble sort
+## why I Chose bubble sort
 I chose to visualize bubble sort with early exit, because I believe that it is a good introduciton into sorting algorithms, the proccess it uses to sort is simple, and easy to understand. With other sorting algorthims, the steps for the proccess maybe overcomplicated and hard to understand, while bubble sort only has a O(n^2) time complexity at its worst case, making it relatively simple to follow compared to different sorting algorithims. Through bubble sort's simplicity we can introduce the user to more complicated topics through a simple example, like how time complexities change in worst case versus best case, and how sorting algorithms check if a swap needs to be made. Bubble sort also is very easy to follow, because of how it sorts, checking each item indiviually, then moving to the next until the whole list is sorted. This simplicity is much easier to follow then other algorithims that include recursions, or partitions, which get in the way of learning the basics, such as comparison, swaps, and passes.
 
 ## Demo video/gif/screenshot of test
@@ -10,10 +10,10 @@ I chose to visualize bubble sort with early exit, because I believe that it is a
 
 ## Problem Breakdown & Computational Thinking 
 <img width="861" height="569" alt="Sort Colors(2)" src="https://github.com/user-attachments/assets/5bf4027f-ae89-43ee-b754-df538b6220f0" />
-###Decomposition
-###Pattern recognition
-###Abstraction
-###Algorithm Design
+### Decomposition
+### Pattern recognition
+### Abstraction
+### Algorithm Design
 
 ## Steps to Run
 Enter numbers, with each number seperated by a comma, then hit the button labeled "Run Bubble Sort".
