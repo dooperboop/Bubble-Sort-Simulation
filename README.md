@@ -44,4 +44,4 @@ A log should then appear, with each step the algorithm takes to sort everything.
 https://huggingface.co/spaces/dooperboop/Bubble-Sort-Simulation/tree/main
 
 ## Author & Acknowledgment
-AI was used to create most of the code for this app, as I was unfamiliar with how gradio worked. I used AI to assist the creation of the my app, while the text used is my work entirely. The AI used in this project was used to create the idea I envisioned within gradio, because of my unfamiliarity with the program.
+AI was used to create the interface for this app, as I was unfamiliar with how gradio worked. I used AI to assist the creation of the my app, while the text used is my work entirely. The AI used in this project was used to create the idea I envisioned within gradio, because of my unfamiliarity with the program.
