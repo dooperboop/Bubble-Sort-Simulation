@@ -11,8 +11,11 @@ I chose to visualize bubble sort with early exit, because I believe that it is a
 ## Problem Breakdown & Computational Thinking 
 <img width="861" height="569" alt="Sort Colors(2)" src="https://github.com/user-attachments/assets/5bf4027f-ae89-43ee-b754-df538b6220f0" />
 ### Decomposition
+
 ### Pattern recognition
+
 ### Abstraction
+
 ### Algorithm Design
 
 ## Steps to Run
