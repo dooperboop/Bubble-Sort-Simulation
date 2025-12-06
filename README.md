@@ -34,6 +34,7 @@ Proccessing:
 
 Output:
 - a completed step-by-step log
+- sorted list
 
 ## Steps to Run
 Enter numbers, with each number seperated by a comma, then hit the button labeled "Run Bubble Sort".
