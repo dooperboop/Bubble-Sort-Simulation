@@ -10,13 +10,30 @@ I chose to visualize bubble sort with early exit, because I believe that it is a
 
 ## Problem Breakdown & Computational Thinking 
 <img width="861" height="569" alt="Sort Colors(2)" src="https://github.com/user-attachments/assets/5bf4027f-ae89-43ee-b754-df538b6220f0" />
+
 ### Decomposition
+Bubble sort consisits of an outer loop which tracks the number of passes, and an innner loop which does the comparisons and swapping. The outer loop initializes a swapped variable to detect if a swap is made for the early exit, and a variable to track where in the list we are. The inner list then checks if a swap needs to be made between the first two elements, if so then they are swapped and the swapped variable is set true, if not the list moves onto the next element, until a full pass is finished. Once a pass is dont we check if a swap is made, if so we continue, otherwise we break and the list has early exited. We keep doing this until the list doesn't swap any elements, meaning its fully sorted.
 
 ### Pattern recognition
+This algorithm uses a nested while loop to trace through the list, an if statement to compare two values in the inner loop and then swap them, before moving on throughout the list, this continues until the list is fully sorted.
 
 ### Abstraction
+The details that are shown by my simulation are:
+- each pass
+- each check
+- whether a swap was made
+- if the loop early exited
 
 ### Algorithm Design
+Input:
+- integers seperated by commas
+
+Proccessing:
+- running bubble sort on the input list
+- appending each step to a log
+
+Output:
+- a completed step-by-step log
 
 ## Steps to Run
 Enter numbers, with each number seperated by a comma, then hit the button labeled "Run Bubble Sort".
